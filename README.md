@@ -2,7 +2,7 @@
 
 使用方法：
 
-使用 RT-Thread Studio 创建应用，然后替换 applications 代码。
+使用 RT-Thread Studio 创建应用，然后替换 applications\main.c。
 
 * 温馨提示
 
